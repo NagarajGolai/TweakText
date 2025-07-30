@@ -13,7 +13,8 @@
 
 ## Live Demo
 
-[![Live Site](https://img.shields.io/badge/Live-Site-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tweak-text.netlify.app/)
+[![Live Site](https://img.shields.io/badge/Live--Site-FFD700?style=for-the-badge&logo=netlify&logoColor=black)](https://tweak-text.netlify.app/)
+
 
 
 
