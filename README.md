@@ -17,9 +17,7 @@
 
 ## Built With
 
-- [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/) for fast builds and hot reloading
+<table> <tr> <td align="center"> <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> <br/>React.js </a> </td> <td align="center"> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> <br/>Tailwind CSS </a> </td> <td align="center"> <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> <br/>Vite </a> </td> </tr> </table>
 
 ## Installation
 
